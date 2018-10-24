@@ -1,7 +1,4 @@
-
-void setup()
-{
-	//your variable declarations and
-	//System.out.println() statements here
+void setup(){
+  Farm OldMacDonald = new Farm();
+  OldMacDonald.animalSounds();
 }
-
